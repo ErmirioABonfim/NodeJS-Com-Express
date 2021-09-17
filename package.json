@@ -1,0 +1,19 @@
+{
+  "name": "projeto-nodejs-rest",
+  "version": "1.0.0",
+  "description": "Formaçao Alura NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErmirioABonfim/NodeJS-Com-Express.git"
+  },
+  "author": "Ermirio Alves Bonfim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErmirioABonfim/NodeJS-Com-Express/issues"
+  },
+  "homepage": "https://github.com/ErmirioABonfim/NodeJS-Com-Express#readme"
+}
