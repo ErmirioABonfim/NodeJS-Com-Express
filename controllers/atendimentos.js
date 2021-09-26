@@ -1,4 +1,5 @@
 const bodyParser = require("body-parser");
+const path = require("path");
 const { altera } = require("../models/atendimentos");
 const Atendimento = require("../models/atendimentos")
 
@@ -30,4 +31,6 @@ module.exports = app =>{
         const id = parseInt(req.params.id);
         Atendimento.delete(id,res)
     })
+
+    
 }
